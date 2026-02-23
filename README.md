@@ -1,8 +1,8 @@
 # Clube de Assinatura de Vinil
 
-Disciplina:** Programação WEB  
-Professor:** Luiz Carlos Camargo, PhD.  
-Alunos:** William (Front-end) e Pedro Israel (Back-end)
+Disciplina: Programação WEB  
+Professor: Luiz Carlos Camargo, PhD.  
+Alunos: William (Front-end) e Pedro Israel (Back-end)
 1. Domínio do Problema (Escopo)
 
 O projeto consiste em desenvolver uma aplicação web para um serviço de assinatura de discos de vinil. A plataforma permitirá que usuários se cadastrem, gerenciem sua assinatura e recebam mensalmente um disco de vinil selecionado.
