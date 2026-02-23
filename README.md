@@ -1,4 +1,5 @@
-# Apresenta-o-de-Escopo
+# Apresentacao do escopo
+
 Apresentação de Escopo sobre o projeto: Assinatura de discos de vinil.
 Será como aqueles sites de assinatura por "caixa", onde mensalmente viria uma caixa aleatória contendo maquiagem, livros, presentes etc.
 Mas no nosso caso, você assina e recebe um vinil, mas sabendo qual vinil será, sempe na primeira semana do mês é divulgado no site qual será o disco enviado, todo mês um diferente, mas podendo ser do mesmo artista, banda...
